@@ -1,9 +1,5 @@
 # Solulab_assignment_Reactjs_Tracker
 
-# Drag & Drop Taskboard
-
-A taskboard application with drag and drop feature. 
-
 <img src="./screenshots/example.jpg" />
 
 
